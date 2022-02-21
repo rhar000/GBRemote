@@ -84,4 +84,4 @@ FontTilesEnd:
 SECTION "String Code", ROM0
 
 PrintStr:
-    db "This is a test", 0
+    db "This is also a test", 0
